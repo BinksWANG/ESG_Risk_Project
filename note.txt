@@ -1,0 +1,191 @@
+create ssh key:
+
+cd ~/.ssh
+-- https://cloud.google.com/compute/docs/connect/create-ssh-keys?hl=zh-cn
+-- ssh-keygen -t rsa -f ~/.ssh/KEY_FILENAME -C USERNAME
+ssh-keygen -t rsa -f ~/.ssh/de_gcp -C binks
+-- it will generate de_gcp and ed_gcp.pub
+-- passphrase do not enter
+cat de_gcp.pub 
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDj5zCoBetTAKppWRBAnmsio1qw7n+g3Iv6ueLUt+Yvz8gWREkG0s8gH9Yk5StQOl2VIkTQ2YNnxJKFU8Sc81SxnO4QOauW166dF+V+i/EELtf+buKiGe0A/MntUKW1UjUll+HS8CACYbYx1bXX+Dx1okW1NXyrGDQCfSYSfSQJB1l7PA7ol+BT9ebPg8/RlaIT/mSTxZ8wGfaeuDeE1EhKeFxyCQz7sWrTjIBzVTj2n8A+apyPLoMd3qsZWWfNUeNIx8pe1QvviGiQSTdc0bafyDtN+N3xApPQdSxAhbSl4OOHMV/BHZms7OQPTsCfQvPKy3tGNKiNbwJnHVqze/2bvtfLCErRd4ephtLV/ooT3qmeqv9x+BffnQFVMNPM5JdB5azlbT2F0oL1R+3Fp6CPOXawK0lVKU/btj0c7+a4ZWYAbv5R0kik0hh5RxLtM3BPua96JVlCVlcLeeBVyDcom3SOxT6qhgy8pi40xHQcrk79xA8uoTQi4Km/afQ0XvM= binks
+
+-- show the key in console
+-- copy and put it in google cloud platform/computer engine/ metadata/ssh keys
+
+create vm
+
+-- go to vm instances/create instance
+-- setup name, region, machine type:e2-standard-4 (4 vcpu,16 memory)
+--change boot disk ubuntu 20.04 lts, size 30gb
+
+cd
+ssh -i ~/.ssh/de_gcp binks@35.193.144.246
+htop
+gcloud --version
+
+wget https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+
+install anacconda
+cd ~/.ssh
+touch config
+code config
+
+Host esg-risk-project
+    HostName 35.193.144.246
+    User binks
+    IdentityFile ~/.ssh/de_gcp
+
+ ssh esg-risk-project
+
+
+
+
+
+//docker (pg-database , 055d70d2127e0bb68c44106e208da3ea4ad7ec5bd9b447ffacce3b34a0c85f87 ) 
+//load data to 500_esg_risk_data table
+// no need for network  and name
+docker run -it \
+  -e POSTGRES_USER="root" \
+  -e POSTGRES_PASSWORD="root" \
+  -e POSTGRES_DB="esg_risk" \
+  -v e:/yubin/esg_risk_project/data:/var/lib/postgresql/data \
+  -p 5432:5432 \
+  --network=pg-network \       
+  --name pg-database \
+  postgres:13
+
+// login pgcli and to see the table
+pgcli -h localhost -p 5432 -u root -d esg_risk
+Password for root: root
+
+// elated_chatelet
+docker run -it \
+  -e PGADMIN_DEFAULT_EMAIL="admin@admin.com" \
+  -e PGADMIN_DEFAULT_PASSWORD="root" \
+  -p 8080:80 \
+  dpage/pgadmin4
+
+// can not do it, since we need keep pgadmin and postgres under same network
+
+$ docker network create pg-network-esg
+5a6fefb61ff3d9883f25133a822261a04423e89b5503e4ecec68cd986d3a87f2
+
+//pg-database-esg
+docker run -it \
+  -e POSTGRES_USER="root" \
+  -e POSTGRES_PASSWORD="root" \
+  -e POSTGRES_DB="esg_risk" \
+  -v e:/yubin/esg_risk_project/data:/var/lib/postgresql/data \
+  -p 5432:5432 \
+  --network=pg-network-esg \
+  --name pg-database-esg \
+  postgres:13
+
+//pgadmin: again for same network
+docker run -it \
+  -e PGADMIN_DEFAULT_EMAIL="admin@admin.com" \
+  -e PGADMIN_DEFAULT_PASSWORD="root" \
+  -p 8080:80 \
+  --network=pg-network-esg \
+  --name pgadmin \
+  dpage/pgadmin4
+
+## using jupyter notebook load data to pgadmin
+## or using python data_ingest.py load data to pgadmin 
+
+
+## docker-compose up 
+## ctrl + c to stop
+services:
+  pgdatabase:
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=esg_risk
+    volumes:
+      - "./data:/var/lib/postgresql/data:rw"
+    ports:
+      - "5432:5432"
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
+      - PGADMIN_DEFAULT_PASSWORD=root
+    ports:
+      - "8080:80"
+
+#$ docker-compose up -d
+
+
+kestra setup
+----------------------------------------------------------------------
+volumes:
+  postgres-data:
+    driver: local
+  kestra-data:
+    driver: local
+
+services:
+  postgres:
+    image: postgres
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: kestra
+      POSTGRES_USER: kestra
+      POSTGRES_PASSWORD: k3str4
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -d $${POSTGRES_DB} -U $${POSTGRES_USER}"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+
+  kestra:
+    image: kestra/kestra:latest
+    pull_policy: always
+    # Note that this setup with a root user is intended for development purpose.
+    # Our base image runs without root, but the Docker Compose implementation needs root to access the Docker socket
+    # To run Kestra in a rootless mode in production, see: https://kestra.io/docs/installation/podman-compose
+    user: "root"
+    command: server standalone
+    volumes:
+      - kestra-data:/app/storage
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /tmp/kestra-wd:/tmp/kestra-wd
+    environment:
+      KESTRA_CONFIGURATION: |
+        datasources:
+          postgres:
+            url: jdbc:postgresql://postgres:5432/kestra
+            driverClassName: org.postgresql.Driver
+            username: kestra
+            password: k3str4
+        kestra:
+          server:
+            basicAuth:
+              enabled: false
+              username: "admin@localhost.dev" # it must be a valid email address
+              password: kestra
+          repository:
+            type: postgres
+          storage:
+            type: local
+            local:
+              basePath: "/app/storage"
+          queue:
+            type: postgres
+          tasks:
+            tmpDir:
+              path: /tmp/kestra-wd/tmp
+          url: http://localhost:8080/
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    depends_on:
+      postgres:
+        condition: service_started
+
+
+#$ docker-compose up
