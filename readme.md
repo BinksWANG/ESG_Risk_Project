@@ -40,7 +40,7 @@ Technology Stack
 	    • BigQuery (Datawarehouse): Where data is stored in dimensional modeling.
 	    • Spark (Data Processing Layer): Local cluster on VM instance.
     • Mage
-        • Orchestration Tool: Used for our data pipeline flow.
+        • Orchestration Tool: Used for our data pipeline flow.  (kestra)
     • DBT (Data Build Tool)
         • Reporting Layer: Built in models.
     • Docker
@@ -59,3 +59,4 @@ load data:
 Project Architacture Overview (image)
 
 Data Flow
+

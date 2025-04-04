@@ -1,0 +1,504 @@
+Symbol,Name,Sector,Industry,Full Time Employees,Total ESG Risk score,Environment Risk Score,Governance Risk Score,Social Risk Score,Controversy Level,Controversy Score,ESG Risk Percentile,ESG Risk Level
+ENPH,Enphase Energy Inc,Technology,Solar,3157,,,,,,,,
+EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,14000,25.3,12.8,6.6,5.8,Moderate Controversy Level,2,50th percentile,Medium
+DPZ,Domino's Pizza Inc,Consumer Cyclical,Restaurants,6500,29.2,10.6,6.3,12.2,Moderate Controversy Level,2,66th percentile,Medium
+DAY,Dayforce Inc,Technology,Software - Application,9084,,,,,,,,
+DVA,Davita Inc,Healthcare,Medical Care Facilities,70000,22.6,0.1,8.4,14.1,Moderate Controversy Level,2,38th percentile,Medium
+DRI,Darden Restaurants Inc,Consumer Cyclical,Restaurants,187384,27.5,7.9,4.6,15,Moderate Controversy Level,2,59th percentile,Medium
+ZTS,Zoetis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,14100,18.8,3.2,8.7,6.8,Moderate Controversy Level,2,23rd percentile,Low
+ZBH,Zimmer Biomet Holdings Inc,Healthcare,Medical Devices,18000,26,3.6,7.9,14.5,Moderate Controversy Level,2,53rd percentile,Medium
+ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,9750,,,,,,,,
+YUM,Yum! Brands Inc,Consumer Cyclical,Restaurants,35000,20.1,4.5,4.1,11.4,Moderate Controversy Level,2,28th percentile,Medium
+XYL,Xylem Inc,Industrials,Specialty Industrial Machinery,23000,18.1,4.3,5.2,8.7,Low Controversy Level,1,21st percentile,Low
+XEL,Xcel Energy Inc,Utilities,Utilities - Regulated Electric,11311,26.5,12.7,4.5,9.3,Moderate Controversy Level,2,55th percentile,Medium
+WYNN,Wynn Resorts Ltd,Consumer Cyclical,Resorts & Casinos,27800,25.7,3.4,10.6,11.8,Moderate Controversy Level,2,52nd percentile,Medium
+WTW,Willis Towers Watson Public Limited Companys,Financial Services,Insurance Brokers,48000,18.7,0.1,10.8,7.8,Moderate Controversy Level,2,23rd percentile,Low
+WMB,Williams Companies Inc,Energy,Oil & Gas Midstream,5601,21.8,8.7,3,10.1,Moderate Controversy Level,2,35th percentile,Medium
+WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,9300,16.7,9.1,3.5,4.2,Moderate Controversy Level,2,16th percentile,Low
+WRK,Westrock Company,Consumer Cyclical,Packaging & Containers,56100,,,,,,,,
+WDC,Western Digital Corp,Technology,Computer Hardware,53000,11.4,1.5,6.1,3.9,Moderate Controversy Level,2,4th percentile,Low
+WST,West Pharmaceutical Services Inc,Healthcare,Medical Instruments & Supplies,10600,,,,,,,,
+WELL,Welltower Inc,Real Estate,REIT - Healthcare Facilities,533,13.2,4.2,5.5,3.5,Low Controversy Level,1,7th percentile,Low
+WFC,Wells Fargo & Co,Financial Services,Banks - Diversified,224824,36.2,2,19.4,14.8,Severe Controversy Level,5,87th percentile,High
+WEC,Wec Energy Group Inc,Utilities,Utilities - Regulated Electric,7000,27.5,13.4,5.1,9,Low Controversy Level,1,59th percentile,Medium
+WAT,Waters Corp,Healthcare,Diagnostics & Research,7900,14.6,1.4,5.1,8.2,None Controversy Level,,10th percentile,Low
+WM,Waste Management Inc,Industrials,Waste Management,48000,16.6,8.1,3.3,5.2,Moderate Controversy Level,2,16th percentile,Low
+WBD,Warner Bros Discovery Inc Series a,Communication Services,Entertainment,35300,,,,,,,,
+WMT,Walmart Inc,Consumer Defensive,Discount Stores,2100000,25.3,5.9,7.1,12.4,Significant Controversy Level,3,50th percentile,Medium
+WBA,Walgreens Boots Alliance Inc,Healthcare,Pharmaceutical Retailers,330000,16.3,1.8,5.2,9.3,Significant Controversy Level,3,15th percentile,Low
+WAB,Wabtec Inc,Industrials,Railroads,29000,23.3,5.4,6,12,Moderate Controversy Level,2,42nd percentile,Medium
+GWW,WW Grainger Inc,Industrials,Industrial Distribution,23200,16,4.5,5.9,5.6,Moderate Controversy Level,2,14th percentile,Low
+WRB,WR Berkley Corporation,Financial Services,Insurance - Property & Casualty,8329,21.8,2,11.9,7.9,Low Controversy Level,1,35th percentile,Medium
+VMC,Vulcan Materials Company,Basic Materials,Building Materials,10961,29.3,13.4,9.1,6.8,Moderate Controversy Level,2,66th percentile,Medium
+VST,Vistra Corp,Utilities,Utilities - Independent Power Producers,4870,,,,,,,,
+V,Visa Inc,Financial Services,Credit Services,,16.7,1.8,6.7,8.2,Significant Controversy Level,3,16th percentile,Low
+VICI,Vici Properties Inc,Real Estate,REIT - Diversified,28,,,,,,,,
+VTRS,Viatris Inc,Healthcare,Drug Manufacturers - Specialty & Generic,33000,,,,,,,,
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,Biotechnology,5400,22.7,0.8,6.6,15.4,Moderate Controversy Level,2,39th percentile,Medium
+VZ,Verizon Communications,Communication Services,Telecom Services,104400,18.7,3.7,5.4,9.6,Significant Controversy Level,3,23rd percentile,Low
+VRSK,Verisk Analytics Inc,Industrials,Consulting Services,7500,17.5,0.1,5,12.5,Low Controversy Level,1,19th percentile,Low
+VRSN,Verisign Inc,Technology,Software - Infrastructure,907,21.3,4.7,5.8,10.8,Low Controversy Level,1,33rd percentile,Medium
+VLTO,Veralto Corporation,Industrials,Pollution & Treatment Controls,16000,,,,,,,,
+VTR,Ventas Inc,Real Estate,REIT - Healthcare Facilities,486,12.9,3.4,5.6,3.9,None Controversy Level,,6th percentile,Low
+VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,9886,32.6,20.1,5,7.4,Moderate Controversy Level,2,77th percentile,High
+UHS,Universal Health Services Inc Class B,Healthcare,Medical Care Facilities,96700,33,3.7,8.6,20.7,Significant Controversy Level,3,78th percentile,High
+UNH,Unitedhealth Group Incorporated,Healthcare,Healthcare Plans,440000,15.3,0,5.6,9.7,Significant Controversy Level,3,12th percentile,Low
+URI,United Rentals Inc,Industrials,Rental & Leasing Services,26650,16.9,5.3,5.4,6.1,Low Controversy Level,1,17th percentile,Low
+UPS,United Parcel Service Inc Class B,Industrials,Integrated Freight & Logistics,500000,18.6,4.2,5.5,8.9,Moderate Controversy Level,2,23rd percentile,Low
+UAL,United Airlines Holdings Inc,Industrials,Airlines,104500,28.6,10.8,5,12.8,Moderate Controversy Level,2,64th percentile,Medium
+UNP,Union Pacific Corp,Industrials,Railroads,31052,23.5,7.3,5.6,10.6,Moderate Controversy Level,2,42nd percentile,Medium
+ULTA,Ulta Beauty Inc,Consumer Cyclical,Specialty Retail,20000,15.6,4.1,4.3,7.3,Moderate Controversy Level,2,13th percentile,Low
+UDR,Udr Inc,Real Estate,REIT - Residential,1397,13.9,3.7,6.3,3.9,Low Controversy Level,1,9th percentile,Low
+UBER,Uber Technologies Inc,Technology,Software - Application,30700,,,,,,,,
+USB,US Bancorp,Financial Services,Banks - Regional,70000,30.3,1.8,13,15.5,Significant Controversy Level,3,70th percentile,High
+TSN,Tyson Foods Inc,Consumer Defensive,Farm Products,139000,35.9,14,9.5,12.4,High Controversy Level,4,85th percentile,High
+TYL,Tyler Technologies Inc,Technology,Software - Application,7305,,,,,,,,
+TFC,Truist Financial Corporation,Financial Services,Banks - Regional,49218,,,,,,,,
+TRMB,Trimble Inc,Technology,Scientific & Technical Instruments,12700,12.4,3.8,5.2,3.4,None Controversy Level,,6th percentile,Low
+TDG,Transdigm Group Incorporated,Industrials,Aerospace & Defense,15500,38.7,12,9,17.7,Moderate Controversy Level,2,90th percentile,High
+TT,Trane Technologies Plc,Industrials,Building Products & Equipment,40000,15.2,4.4,5.1,5.7,Moderate Controversy Level,2,12th percentile,Low
+TSCO,Tractor Supply Co,Consumer Cyclical,Specialty Retail,50000,16.1,3.4,4.5,8.2,Moderate Controversy Level,2,14th percentile,Low
+TJX,Tjx Companies Inc,Consumer Cyclical,Apparel Retail,349000,14.4,1.9,4.8,7.7,Moderate Controversy Level,2,10th percentile,Low
+TMO,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,122000,12.8,1.4,6.5,4.9,Significant Controversy Level,3,6th percentile,Low
+DIS,The Walt Disney Company,Communication Services,Entertainment,173250,15.7,0,6.7,9,Moderate Controversy Level,2,13th percentile,Low
+TRV,The Travelers Companies Inc,Financial Services,Insurance - Property & Casualty,32967,20.3,1,10,9.3,Low Controversy Level,1,29th percentile,Medium
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,27819,33,14.7,7.3,11,Moderate Controversy Level,2,78th percentile,High
+SHW,The Sherwin-Williams Company,Basic Materials,Specialty Chemicals,64088,29.4,14.3,5.8,9.2,Moderate Controversy Level,2,66th percentile,Medium
+MOS,The Mosaic Company,Basic Materials,Agricultural Inputs,14049,33.5,13.9,8.6,11.1,Moderate Controversy Level,2,80th percentile,High
+KR,The Kroger Co,Consumer Defensive,Grocery Stores,414000,21.3,6.6,5.6,9.1,Significant Controversy Level,3,33rd percentile,Medium
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,36000,33.7,13.5,6.2,14.1,Significant Controversy Level,3,80th percentile,High
+SJM,The JM Smucker Company,Consumer Defensive,Packaged Foods,5800,30.5,12.9,5.6,12,Moderate Controversy Level,2,71st percentile,High
+IPG,The Interpublic Group of Companies Inc,Communication Services,Advertising Agencies,56800,10.3,0,5.3,5,Low Controversy Level,1,3rd percentile,Low
+HSY,The Hershey Company,Consumer Defensive,Confectioners,18650,26,10.5,5.1,10.4,Significant Controversy Level,3,53rd percentile,Medium
+HIG,The Hartford Financial Services Group Inc,Financial Services,Insurance - Property & Casualty,18700,16.6,1.8,7.6,7.2,Low Controversy Level,1,16th percentile,Low
+EL,The Estee Lauder Companies Inc Class A,Consumer Defensive,Household & Personal Products,44020,25.5,6.9,7.5,11.1,Moderate Controversy Level,2,51st percentile,Medium
+COO,The Cooper Companies Inc,Healthcare,Medical Instruments & Supplies,15000,17.5,2.7,6,8.8,Moderate Controversy Level,2,19th percentile,Low
+CI,The Cigna Group,Healthcare,Healthcare Plans,70325,11.6,0,5.7,6,Moderate Controversy Level,2,3rd percentile,Low
+SCHW,The Charles Schwab Corporation,Financial Services,Capital Markets,32600,23.3,2.4,11.9,8.9,Moderate Controversy Level,2,41st percentile,Medium
+ALL,The Allstate Corporation,Financial Services,Insurance - Property & Casualty,53000,22,1,10.9,10.1,Moderate Controversy Level,2,36th percentile,Medium
+TXT,Textron Inc,Industrials,Aerospace & Defense,35000,33.6,10.9,6.6,16.1,Moderate Controversy Level,2,80th percentile,High
+TXN,Texas Instruments Incorporated,Technology,Semiconductors,34000,20.6,7.8,6.9,6,Moderate Controversy Level,2,30th percentile,Medium
+TSLA,Tesla Inc,Consumer Cyclical,Auto Manufacturers,140473,25.2,3.3,7.8,14.1,Significant Controversy Level,3,50th percentile,Medium
+TER,Teradyne Inc,Technology,Semiconductor Equipment & Materials,6600,17,7.1,5,4.9,None Controversy Level,,17th percentile,Low
+TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,14500,29.6,4.8,8.7,16.1,Moderate Controversy Level,2,67th percentile,Medium
+TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments,14900,,,,,,,,
+TEL,Te Connectivity Ltd,Technology,Electronic Components,85000,14.8,5.8,4.6,4.4,None Controversy Level,,11th percentile,Low
+TGT,Target Corporation,Consumer Defensive,Discount Stores,415000,14.4,1.9,4.9,7.6,Significant Controversy Level,3,10th percentile,Low
+TRGP,Targa Resources Corp,Energy,Oil & Gas Midstream,3182,33.2,14.2,4.2,14.8,Moderate Controversy Level,2,79th percentile,High
+TPR,Tapestry Inc,Consumer Cyclical,Luxury Goods,12600,14.8,1.1,5.2,8.6,Moderate Controversy Level,2,11th percentile,Low
+TTWO,Take-Two Interactive Software Inc,Communication Services,Electronic Gaming & Multimedia,12371,,,,,,,,
+TMUS,T-Mobile Us Inc,Communication Services,Telecom Services,67000,24.6,4.2,7.1,13.4,Significant Controversy Level,3,47th percentile,Medium
+TROW,T Rowe Price Group Inc,Financial Services,Asset Management,7878,16.9,2.4,5.6,8.9,Low Controversy Level,1,17th percentile,Low
+SYY,Sysco Corporation,Consumer Defensive,Food Distribution,72000,15.9,5.4,4.5,6.1,Moderate Controversy Level,2,14th percentile,Low
+SNPS,Synopsys Inc,Technology,Software - Infrastructure,20300,14.4,3.3,4.2,6.9,None Controversy Level,,10th percentile,Low
+SYF,Synchrony Financial,Financial Services,Credit Services,20000,17.3,0.1,7.3,9.9,Moderate Controversy Level,2,18th percentile,Low
+SMCI,Super Micro Computer Inc,Technology,Computer Hardware,5126,,,,,,,,
+SYK,Stryker Corporation,Healthcare,Medical Devices,52000,28.3,4,11,13.2,Moderate Controversy Level,2,62nd percentile,Medium
+STE,Steris Plc,Healthcare,Medical Devices,18000,,,,,,,,
+STLD,Steel Dynamics Inc,Basic Materials,Steel,12600,33,10.6,8.1,14.4,Low Controversy Level,1,78th percentile,High
+STT,State Street Corporation,Financial Services,Asset Management,45871,24.1,1.6,9.5,12.9,Low Controversy Level,1,45th percentile,Medium
+SBUX,Starbucks Corp,Consumer Cyclical,Restaurants,381000,24.7,5.8,4.3,14.6,Significant Controversy Level,3,48th percentile,Medium
+SWK,Stanley Black & Decker Inc,Industrials,Tools & Accessories,50000,25.3,5,7.8,12.5,Moderate Controversy Level,2,50th percentile,Medium
+LUV,Southwest Airlines Co,Industrials,Airlines,74695,30.7,11,5.9,13.7,Moderate Controversy Level,2,71st percentile,High
+SOLV,Solventum Corporation,Healthcare,Health Information Services,22000,,,,,,,,
+SNA,Snap-on Incorporated,Industrials,Tools & Accessories,13200,30.5,9,7.6,13.9,Moderate Controversy Level,2,71st percentile,High
+SWKS,Skyworks Solutions Inc,Technology,Semiconductors,9750,28,11.8,7.2,8.9,Low Controversy Level,1,61st percentile,Medium
+SPG,Simon Property Group Inc,Real Estate,REIT - Retail,2500,14,3.8,6.2,4,Low Controversy Level,1,9th percentile,Low
+NOW,Servicenow Inc,Technology,Software - Application,22668,16.6,4,6.6,6,None Controversy Level,,16th percentile,Low
+SRE,Sempra,Utilities,Utilities - Diversified,16835,23.6,10.9,4.9,7.8,Moderate Controversy Level,2,43rd percentile,Medium
+STX,Seagate Technology Holdings Plcs,Technology,Computer Hardware,33400,10.7,1.6,5.3,3.8,Low Controversy Level,1,2nd percentile,Low
+SLB,Schlumberger Limited,Energy,Oil & Gas Equipment & Services,111000,20.3,8.1,5.9,6.3,Low Controversy Level,1,29th percentile,Medium
+SBAC,Sba Communications Corp,Real Estate,REIT - Specialty,1787,11.6,3.1,5.2,3.2,None Controversy Level,,4th percentile,Low
+CRM,Salesforce Inc,Technology,Software - Application,72682,14.9,2,5.4,7.5,Low Controversy Level,1,11th percentile,Low
+SPGI,S&p Global Inc,Financial Services,Financial Data & Stock Exchanges,40450,13,0,6.8,6.2,Low Controversy Level,1,7th percentile,Low
+RTX,Rtx Corporation,Industrials,Aerospace & Defense,185000,,,,,,,,
+RCL,Royal Caribbean Group,Consumer Cyclical,Travel Services,98100,20.7,8.1,4.9,7.7,Significant Controversy Level,3,31st percentile,Medium
+ROST,Ross Stores Inc,Consumer Cyclical,Apparel Retail,108000,18.2,1.8,5.7,10.8,Moderate Controversy Level,2,21st percentile,Low
+ROP,Roper Technologies Inc,Technology,Software - Application,16800,20.4,4.7,6.1,9.7,None Controversy Level,,30th percentile,Medium
+ROL,Rollins Inc,Consumer Cyclical,Personal Services,19000,19.3,1.8,6.9,10.6,Low Controversy Level,1,26th percentile,Low
+ROK,Rockwell Automation Inc,Industrials,Specialty Industrial Machinery,29000,17.7,5.4,5.7,6.6,Moderate Controversy Level,2,19th percentile,Low
+RHI,Robert Half Inc,Industrials,Staffing & Employment Services,15000,10.9,0.1,3.4,7.4,Low Controversy Level,1,3rd percentile,Low
+RVTY,Revvity Inc,Healthcare,Diagnostics & Research,11000,16.7,0.8,5.8,10.1,Moderate Controversy Level,2,16th percentile,Low
+RMD,Resmed Inc,Healthcare,Medical Instruments & Supplies,,26.4,3.5,10.4,12.4,Low Controversy Level,1,55th percentile,Medium
+RSG,Republic Services Inc,Industrials,Waste Management,41000,20.9,11.2,3.7,6,Significant Controversy Level,3,31st percentile,Medium
+RF,Regions Financial Corp,Financial Services,Banks - Regional,20101,16.9,1.8,8.4,6.7,Moderate Controversy Level,2,17th percentile,Low
+REGN,Regeneron Pharmaceuticals Inc,Healthcare,Biotechnology,13677,18,0.3,6.7,11,Moderate Controversy Level,2,21st percentile,Low
+REG,Regency Centers Corporation,Real Estate,REIT - Retail,492,11.7,3.7,4.8,3.2,None Controversy Level,,5th percentile,Low
+O,Realty Income Corporation,Real Estate,REIT - Retail,418,15.5,4.4,5.7,5.3,Moderate Controversy Level,2,13th percentile,Low
+RJF,Raymond James Financial Inc,Financial Services,Capital Markets,18000,27,2.3,13.4,11.2,Moderate Controversy Level,2,57th percentile,Medium
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,14800,14.6,1.2,5.6,7.8,Moderate Controversy Level,2,10th percentile,Low
+DGX,Quest Diagnostics Inc,Healthcare,Diagnostics & Research,50000,21.2,0.1,8,13.1,Significant Controversy Level,3,33rd percentile,Medium
+PWR,Quanta Services Inc,Industrials,Engineering & Construction,52500,36.9,12.1,9,15.7,Moderate Controversy Level,2,88th percentile,High
+QCOM,Qualcomm Inc,Technology,Semiconductors,50000,15.4,5.3,5.6,4.5,Significant Controversy Level,3,12th percentile,Low
+QRVO,Qorvo Inc,Technology,Semiconductors,8700,28.5,12.3,7.7,8.5,None Controversy Level,,63rd percentile,Medium
+PHM,Pultegroup Inc,Consumer Cyclical,Residential Construction,6382,21.4,9.2,4.9,7.3,Moderate Controversy Level,2,34th percentile,Medium
+PSA,Public Storage,Real Estate,REIT - Industrial,6200,13.1,4.7,5.7,2.6,Low Controversy Level,1,7th percentile,Low
+PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,12543,27.2,12.5,5.5,9.3,Moderate Controversy Level,2,58th percentile,Medium
+PTC,Ptc Inc,Technology,Software - Application,7438,18.9,4.9,5.4,8.6,None Controversy Level,,24th percentile,Low
+PRU,Prudential Financial Inc,Financial Services,Insurance - Life,40366,19.9,0.6,9.3,10,Low Controversy Level,1,28th percentile,Low
+PLD,Prologis Inc,Real Estate,REIT - Industrial,2574,10.3,2.7,5,2.5,Low Controversy Level,1,3rd percentile,Low
+PGR,Progressive Corporation,Financial Services,Insurance - Property & Casualty,61432,20,1.5,10.1,8.5,Moderate Controversy Level,2,28th percentile,Medium
+PG,Procter & Gamble Company,Consumer Defensive,Household & Personal Products,107000,28.6,9.6,6.7,12.2,Significant Controversy Level,3,63rd percentile,Medium
+PFG,Principal Financial Group Inc,Financial Services,Asset Management,19800,14.2,0.8,7.6,5.8,Low Controversy Level,1,9th percentile,Low
+PPL,Ppl Corporation,Utilities,Utilities - Regulated Electric,6629,31.3,17.1,5.3,8.9,Moderate Controversy Level,2,74th percentile,High
+PPG,Ppg Industries Inc,Basic Materials,Specialty Chemicals,50000,25.2,11,6.5,7.7,Moderate Controversy Level,2,50th percentile,Medium
+POOL,Pool Corporation,Industrials,Industrial Distribution,6000,,,,,,,,
+PNC,Pnc Financial Services Group,Financial Services,Banks - Regional,54441,26.1,1.9,10.8,13.3,Significant Controversy Level,3,53rd percentile,Medium
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,6133,30.8,14.7,5.8,10.2,Low Controversy Level,1,72nd percentile,High
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,14000,35.4,20.8,5.8,8.8,Significant Controversy Level,3,84th percentile,High
+PM,Philip Morris International Inc,Consumer Defensive,Tobacco,82700,28.5,3.4,11.5,13.5,Significant Controversy Level,3,63rd percentile,Medium
+PCG,Pg&e Corporation,Utilities,Utilities - Regulated Electric,28010,30.4,9.6,5.4,15.4,High Controversy Level,4,70th percentile,High
+PFE,Pfizer Inc,Healthcare,Drug Manufacturers - General,88000,24.6,2.1,9.6,12.9,Significant Controversy Level,3,47th percentile,Medium
+PEP,Pepsico Inc,Consumer Defensive,Beverages - Non-Alcoholic,318000,22.1,7.3,5.2,9.6,Significant Controversy Level,3,36th percentile,Medium
+PNR,Pentair Plc,Industrials,Specialty Industrial Machinery,10500,22.1,6,6.1,10,Low Controversy Level,1,36th percentile,Medium
+PYPL,Paypal Holdings Inc,Financial Services,Credit Services,27200,17.8,2.8,5.8,9.2,Moderate Controversy Level,2,20th percentile,Low
+PAYC,Paycom Software Inc,Technology,Software - Application,7308,,,,,,,,
+PAYX,Paychex Inc,Industrials,Staffing & Employment Services,16000,16.7,3.2,6.4,7.2,Low Controversy Level,1,16th percentile,Low
+PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,62730,29.5,9.5,6.2,13.8,Moderate Controversy Level,2,67th percentile,Medium
+PARA,Paramount Global Class B,Communication Services,Entertainment,21900,15,0.1,7.4,7.5,Significant Controversy Level,3,11th percentile,Low
+PANW,Palo Alto Networks Inc,Technology,Software - Infrastructure,15166,13.9,0.7,5.6,7.6,Low Controversy Level,1,9th percentile,Low
+PKG,Packaging Corp of America,Consumer Cyclical,Packaging & Containers,14900,18.6,14,3.6,1.1,Low Controversy Level,1,23rd percentile,Low
+PCAR,Paccar Inc,Industrials,Farm & Heavy Construction Machinery,32400,27.6,8.4,8.3,11,Significant Controversy Level,3,60th percentile,Medium
+OTIS,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery,71000,,,,,,,,
+ORCL,Oracle Corp,Technology,Software - Infrastructure,164000,13.9,0.5,5.6,7.8,Moderate Controversy Level,2,9th percentile,Low
+OKE,Oneok Inc,Energy,Oil & Gas Midstream,4775,25.1,10.8,3.3,11,Low Controversy Level,1,50th percentile,Medium
+ON,On Semiconductor Corp,Technology,Semiconductors,30000,22.4,11.8,4.9,5.7,Low Controversy Level,1,38th percentile,Medium
+OMC,Omnicom Group Inc,Communication Services,Advertising Agencies,75900,16.3,0.1,6.9,9.3,Low Controversy Level,1,15th percentile,Low
+ODFL,Old Dominion Freight Line,Industrials,Trucking,22891,,,,,,,,
+OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,12570,41.7,25,7,9.7,Moderate Controversy Level,2,93rd percentile,Severe
+ORLY,O'reilly Automotive Inc,Consumer Cyclical,Specialty Retail,90601,12.1,0.1,3.8,8.1,Low Controversy Level,1,5th percentile,Low
+NXPI,Nxp Semiconductors Nv,Technology,Semiconductors,34200,19.8,8.6,5.8,5.4,Low Controversy Level,1,27th percentile,Low
+NVR,Nvr Inc,Consumer Cyclical,Residential Construction,6300,20.3,7.2,5.2,7.8,Low Controversy Level,1,29th percentile,Medium
+NVDA,Nvidia Corp,Technology,Semiconductors,29600,13.6,2.3,6.3,4.9,Moderate Controversy Level,2,8th percentile,Low
+NUE,Nucor Corporation,Basic Materials,Steel,32000,32.8,9.3,8.8,14.7,Moderate Controversy Level,2,78th percentile,High
+NRG,Nrg Energy Inc,Utilities,Utilities - Independent Power Producers,18131,32,16.8,5.7,9.5,Moderate Controversy Level,2,75th percentile,High
+NCLH,Norwegian Cruise Line Holdings Ltds,Consumer Cyclical,Travel Services,41000,25.9,9,6.1,10.9,Moderate Controversy Level,2,53rd percentile,Medium
+NOC,Northrop Grumman Corp,Industrials,Aerospace & Defense,101000,27.5,7.8,5.4,14.4,Moderate Controversy Level,2,59th percentile,Medium
+NTRS,Northern Trust Corp,Financial Services,Asset Management,23000,23.9,1.9,10.2,11.8,Moderate Controversy Level,2,44th percentile,Medium
+NSC,Norfolk Southern Corp,Industrials,Railroads,20700,23.9,8,5.4,10.5,Significant Controversy Level,3,44th percentile,Medium
+NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery,7700,24.9,8.2,5.1,11.6,Low Controversy Level,1,49th percentile,Medium
+NI,Nisource Inc,Utilities,Utilities - Regulated Gas,7364,26,12,4.9,9.2,Significant Controversy Level,3,53rd percentile,Medium
+NKE,Nike Inc,Consumer Cyclical,Footwear & Accessories,83700,19.6,3,6.7,10,Significant Controversy Level,3,27th percentile,Low
+NEE,Nextra Energy Inc,Utilities,Utilities - Regulated Electric,16800,23.3,9.4,5.6,8.3,Moderate Controversy Level,2,41st percentile,Medium
+NWS,News Corporation Class B,Communication Services,Entertainment,25000,,,,,,,,
+NWSA,News Corporation Class A,Communication Services,Entertainment,25000,11.5,0,6.7,4.7,Moderate Controversy Level,2,4th percentile,Low
+NEM,Newmont Corporation,Basic Materials,Gold,21700,20.5,7.1,5.2,8.2,Significant Controversy Level,3,30th percentile,Medium
+NFLX,Netflix Inc,Communication Services,Entertainment,13000,16.4,0.1,9,7.3,Moderate Controversy Level,2,15th percentile,Low
+NTAP,Netapp Inc,Technology,Computer Hardware,,15.4,2.2,5.5,7.7,Low Controversy Level,1,12th percentile,Low
+NDAQ,Nasdaq Inc,Financial Services,Financial Data & Stock Exchanges,8568,13.1,0,7.4,5.6,Low Controversy Level,1,7th percentile,Low
+MSCI,Msci Inc,Financial Services,Financial Data & Stock Exchanges,5858,16.3,1.6,7.7,7,Low Controversy Level,1,15th percentile,Low
+MSI,Motorola Solutions Inc,Technology,Communication Equipment,21000,13.1,2.3,5.8,5.1,Low Controversy Level,1,7th percentile,Low
+MS,Morgan Stanley,Financial Services,Capital Markets,80000,24.6,1.1,10.5,12.9,Moderate Controversy Level,2,47th percentile,Medium
+MCO,Moody's Corporation,Financial Services,Financial Data & Stock Exchanges,15439,15.8,1.6,8.1,6.1,Moderate Controversy Level,2,14th percentile,Low
+MNST,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,5254,29.2,12.1,5.1,12,Moderate Controversy Level,2,66th percentile,Medium
+MPWR,Monolithic Power Systems Inc,Technology,Semiconductors,3564,,,,,,,,
+MDLZ,Mondelez International Inc Class A,Consumer Defensive,Confectioners,91000,22,7.2,5.4,9.4,Significant Controversy Level,3,36th percentile,Medium
+TAP,Molson Coors Beverage Company Class B,Consumer Defensive,Beverages - Brewers,16500,21.4,7.3,5.5,8.6,Moderate Controversy Level,2,33rd percentile,Medium
+MOH,Molina Healthcare Inc,Healthcare,Healthcare Plans,18000,,,,,,,,
+MHK,Mohawk Industries Inc,Consumer Cyclical,Furnishings Fixtures & Appliances,43300,14.1,5.8,4.2,4.2,Moderate Controversy Level,2,9th percentile,Low
+MRNA,Moderna Inc,Healthcare,Biotechnology,5600,,,,,,,,
+MAA,Mid-America Apartment Communities Inc,Real Estate,REIT - Residential,2427,13.1,3.9,6.3,3,Low Controversy Level,1,7th percentile,Low
+MSFT,Microsoft Corp,Technology,Software - Infrastructure,221000,15.1,1.5,6.1,7.5,Significant Controversy Level,3,11th percentile,Low
+MU,Micron Technology Inc,Technology,Semiconductors,43000,18.2,7.2,5.5,5.5,Moderate Controversy Level,2,21st percentile,Low
+MCHP,Microchip Technology Inc,Technology,Semiconductors,22300,31.8,15.3,7.4,9.2,Low Controversy Level,1,75th percentile,High
+MGM,Mgm Resorts International,Consumer Cyclical,Resorts & Casinos,58000,24.8,1.3,10.5,13,Moderate Controversy Level,2,48th percentile,Medium
+MTD,Mettler-Toledo International,Healthcare,Diagnostics & Research,16000,13.1,1,4.7,7.4,None Controversy Level,,7th percentile,Low
+MET,Metlife Inc,Financial Services,Insurance - Life,45000,16.4,0.7,8.8,7,Moderate Controversy Level,2,15th percentile,Low
+META,Meta Platforms Inc Class A,Communication Services,Internet Content & Information,69329,34.1,2.7,10.3,21.1,High Controversy Level,4,81st percentile,High
+MRK,Merck & Co Inc,Healthcare,Drug Manufacturers - General,70000,21.4,1.9,8.9,10.6,Significant Controversy Level,3,34th percentile,Medium
+MDT,Medtronic Plc,Healthcare,Medical Devices,95000,22.8,1.8,7.6,13.4,Significant Controversy Level,3,39th percentile,Medium
+MCK,Mckesson Corporation,Healthcare,Medical Distribution,45000,15.2,1.6,6.3,7.3,Significant Controversy Level,3,12th percentile,Low
+MCD,Mcdonald's Corporation,Consumer Cyclical,Restaurants,100000,26,7.6,5.8,12.6,Significant Controversy Level,3,53rd percentile,Medium
+MKC,Mccormick & Company Incorporated Non-Vtg Cs,Consumer Defensive,Packaged Foods,13800,26.1,9.6,5.3,11.1,Moderate Controversy Level,2,53rd percentile,Medium
+MTCH,Match Group Inc,Communication Services,Internet Content & Information,2600,,,,,,,,
+MA,Mastercard Incorporated,Financial Services,Credit Services,33400,17.1,2.2,8.3,6.7,High Controversy Level,4,17th percentile,Low
+MAS,Masco Corporation,Industrials,Building Products & Equipment,18000,22.2,9.7,6.8,5.6,Low Controversy Level,1,37th percentile,Medium
+MLM,Martin Marietta Materials,Basic Materials,Building Materials,9400,30.1,16.7,8.7,4.8,Moderate Controversy Level,2,69th percentile,High
+MMC,Marsh & Mclennan Companies Inc,Financial Services,Insurance Brokers,85000,21.1,0.1,9.7,11.3,Moderate Controversy Level,2,32nd percentile,Medium
+MAR,Marriot International Class A,Consumer Cyclical,Lodging,411000,21.4,8.6,3.7,9.2,Significant Controversy Level,3,34th percentile,Medium
+MKTX,Marketaxess Holdings Inc,Financial Services,Capital Markets,881,,,,,,,,
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,18200,30.5,17.1,5.3,8.1,Significant Controversy Level,3,71st percentile,High
+MRO,Marathon Oil Corporation,Energy,Oil & Gas E&P,1681,37.7,21.1,7.6,9.1,Moderate Controversy Level,2,89th percentile,High
+MTB,M&t Bank Corp,Financial Services,Banks - Regional,21927,26.5,2.6,13.6,10.3,Low Controversy Level,1,55th percentile,Medium
+LYB,Lyondellbasell Industries Nv Class A,Basic Materials,Specialty Chemicals,20000,20.7,13.5,5.1,2.1,Moderate Controversy Level,2,31st percentile,Medium
+LULU,Lululemon Athletica Inc,Consumer Cyclical,Apparel Retail,38000,16.9,1.6,5.5,9.9,Moderate Controversy Level,2,17th percentile,Low
+LOW,Lowe's Companies Inc,Consumer Cyclical,Home Improvement Retail,300000,11.8,3.3,3.2,5.3,Moderate Controversy Level,2,5th percentile,Low
+L,Loews Corporation,Financial Services,Insurance - Property & Casualty,12280,16.4,0.6,11.5,4.3,Moderate Controversy Level,2,15th percentile,Low
+LMT,Lockheed Martin Corp,Industrials,Aerospace & Defense,122000,30.2,8,7.1,15.1,Significant Controversy Level,3,70th percentile,High
+LKQ,Lkq Corporation,Consumer Cyclical,Auto Parts,49000,11.1,3.8,3.3,4,Moderate Controversy Level,2,4th percentile,Low
+LYV,Live Nation Entertainment Inc,Communication Services,Entertainment,14700,,,,,,,,
+LIN,Linde Plc,Basic Materials,Specialty Chemicals,66195,,,,,,,,
+LEN,Lennar Corporation Class A,Consumer Cyclical,Residential Construction,12284,25.4,11.3,5.6,8.6,Moderate Controversy Level,2,51st percentile,Medium
+LDOS,Leidos Holdings Inc,Technology,Information Technology Services,47000,17.6,3.4,5.3,9,Moderate Controversy Level,2,19th percentile,Low
+LVS,Las Vegas Sands Corp,Consumer Cyclical,Resorts & Casinos,38400,18.7,2.3,8.7,7.7,Moderate Controversy Level,2,23rd percentile,Low
+LW,Lamb Weston Holdings Inc,Consumer Defensive,Packaged Foods,10200,,,,,,,,
+LRCX,Lam Research Corp,Technology,Semiconductor Equipment & Materials,17200,13.6,4.5,5.1,4,Low Controversy Level,1,8th percentile,Low
+LH,Labcorp Holdings Inc,Healthcare,Diagnostics & Research,67000,19.7,0.4,6.6,12.7,Moderate Controversy Level,2,27th percentile,Low
+LHX,L3harris Technologies Inc,Industrials,Aerospace & Defense,50000,,,,,,,,
+KLAC,Kla Corporation,Technology,Semiconductor Equipment & Materials,15000,17.2,7.4,4.6,5.1,None Controversy Level,,18th percentile,Low
+KMI,Kinder Morgan Inc,Energy,Oil & Gas Midstream,10891,19,8.3,3.5,7.2,Moderate Controversy Level,2,24th percentile,Low
+KIM,Kimco Realty Corp,Real Estate,REIT - Retail,660,10.9,2.3,6,2.6,None Controversy Level,,4th percentile,Low
+KMB,Kimberly-Clark Corp,Consumer Defensive,Household & Personal Products,41000,28.5,10.4,7.6,10.4,Moderate Controversy Level,2,63rd percentile,Medium
+KEYS,Keysight Technologies Inc,Technology,Scientific & Technical Instruments,15400,7.6,1.2,4.7,1.8,Low Controversy Level,1,1st percentile,Negligible
+KEY,Keycorp,Financial Services,Banks - Regional,16752,21.4,1.6,10.7,9.2,Low Controversy Level,1,34th percentile,Medium
+KDP,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic,28100,,,,,,,,
+KVUE,Kenvue Inc,Consumer Defensive,Household & Personal Products,22000,,,,,,,,
+K,Kellanova,Consumer Defensive,Packaged Foods,23000,28.4,10.6,4.4,13.4,Moderate Controversy Level,2,63rd percentile,Medium
+JNPR,Juniper Networks Inc,Technology,Communication Equipment,11144,14.8,1.8,5.8,7.2,Low Controversy Level,1,11th percentile,Low
+JPM,Jpmorgan Chase & Co,Financial Services,Banks - Diversified,311921,29.3,1.1,11.7,16.5,Significant Controversy Level,3,66th percentile,Medium
+JCI,Johnson Controls International Plc,Industrials,Building Products & Equipment,100000,14.4,4.5,5.4,4.6,Significant Controversy Level,3,10th percentile,Low
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,131900,24,0.9,8,15,High Controversy Level,4,45th percentile,Medium
+JBHT,Jb Hunt Transport Services Inc,Industrials,Integrated Freight & Logistics,34718,14.8,3.3,5,6.6,Low Controversy Level,1,11th percentile,Low
+J,Jacobs Solutions Inc,Industrials,Engineering & Construction,60000,22.4,5.3,5.6,11.5,Significant Controversy Level,3,34th percentile,Medium
+JBL,Jabil Inc,Technology,Electronic Components,236000,,,,,,,,
+IRM,Iron Mountain Inc,Real Estate,REIT - Specialty,27000,14.5,5,5.8,3.7,Moderate Controversy Level,2,10th percentile,Low
+IQV,Iqvia Holdings Inc,Healthcare,Diagnostics & Research,87000,19.1,1.3,7.2,10.6,Moderate Controversy Level,2,25th percentile,Low
+INVH,Invitation Homes Inc,Real Estate,REIT - Residential,1555,,,,,,,,
+IVZ,Invesco Ltd,Financial Services,Asset Management,8527,22.8,0.7,11,11,Moderate Controversy Level,2,39th percentile,Medium
+ISRG,Intuitive Surgical Inc,Healthcare,Medical Instruments & Supplies,13676,21.1,3.7,7.8,9.6,Low Controversy Level,1,32nd percentile,Medium
+INTU,Intuit Inc,Technology,Software - Application,18200,16.4,1,4.7,10.7,Moderate Controversy Level,2,15th percentile,Low
+IP,International Paper Co,Consumer Cyclical,Packaging & Containers,39000,24.5,15.1,4.8,4.5,Significant Controversy Level,3,47th percentile,Medium
+IFF,International Flavors & Fragrances Inc,Basic Materials,Specialty Chemicals,21500,22.7,10.5,6.6,5.6,Significant Controversy Level,3,39th percentile,Medium
+IBM,International Business Machines Corporation,Technology,Information Technology Services,282200,14.1,1.8,6.1,6.2,Moderate Controversy Level,2,9th percentile,Low
+ICE,Intercontinental Exchange Inc,Financial Services,Financial Data & Stock Exchanges,13226,19.8,1.7,8.8,9.3,Low Controversy Level,1,27th percentile,Low
+INTC,Intel Corp,Technology,Semiconductors,130700,18.9,4.9,6.6,7.3,Significant Controversy Level,3,24th percentile,Low
+PODD,Insulet Corporation,Healthcare,Medical Devices,3000,,,,,,,,
+IR,Ingersoll Rand Inc,Industrials,Specialty Industrial Machinery,18000,,,,,,,,
+INCY,Incyte Genomics Inc,Healthcare,Biotechnology,2524,24.8,1.1,7.4,16.3,Low Controversy Level,1,48th percentile,Medium
+ILMN,Illumina Inc,Healthcare,Diagnostics & Research,10590,18.6,0.1,6.9,11.6,Significant Controversy Level,3,23rd percentile,Low
+ITW,Illinois Tool Works Inc,Industrials,Specialty Industrial Machinery,45000,25.3,7,6.5,11.8,Moderate Controversy Level,2,50th percentile,Medium
+IDXX,Idexx Laboratories Inc,Healthcare,Diagnostics & Research,11000,18.7,2.6,8.9,7.1,Low Controversy Level,1,23rd percentile,Low
+IEX,Idex Corporation,Industrials,Specialty Industrial Machinery,8800,29.3,10.3,5.3,13.7,None Controversy Level,,66th percentile,Medium
+HII,Huntington Ingalls Industries Inc,Industrials,Aerospace & Defense,44000,,,,,,,,
+HBAN,Huntington Bancshares Inc,Financial Services,Banks - Regional,19719,21.8,2,8.7,11.2,Moderate Controversy Level,2,35th percentile,Medium
+HUM,Humana Inc,Healthcare,Healthcare Plans,67600,22.5,0,5.7,16.7,Moderate Controversy Level,2,38th percentile,Medium
+HUBB,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,18400,19.6,5.6,4.9,9.1,None Controversy Level,,27th percentile,Low
+HPQ,Hp Inc,Technology,Computer Hardware,58000,11.3,0.1,6.1,5.1,Moderate Controversy Level,2,4th percentile,Low
+HWM,Howmet Aerospace Inc,Industrials,Aerospace & Defense,23200,,,,,,,,
+HST,Host Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,163,13.4,3.3,5.5,4.6,Low Controversy Level,1,7th percentile,Low
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,20000,30,13.3,6,10.7,Significant Controversy Level,3,69th percentile,Medium
+HON,Honeywell International Inc,Industrials,Conglomerates,95000,28.6,11,7,10.6,Significant Controversy Level,3,64th percentile,Medium
+HD,Home Depot Inc,Consumer Cyclical,Home Improvement Retail,465000,12.6,3.3,3.8,5.6,Moderate Controversy Level,2,6th percentile,Low
+HOLX,Hologic Inc,Healthcare,Medical Instruments & Supplies,6990,25,4.6,8.4,12.1,Low Controversy Level,1,49th percentile,Medium
+HLT,Hilton Worldwide Holdings Inc,Consumer Cyclical,Lodging,178000,17.6,6.1,4.4,7,Moderate Controversy Level,2,19th percentile,Low
+HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment,62000,10.7,0.9,5.6,4.1,Moderate Controversy Level,2,3rd percentile,Low
+HES,Hess Corporation,Energy,Oil & Gas E&P,1756,33.1,18.9,7,7.2,Moderate Controversy Level,2,79th percentile,High
+HSIC,Henry Schein Inc,Healthcare,Medical Distribution,25000,13.9,2,6.3,5.7,Moderate Controversy Level,2,9th percentile,Low
+JKHY,Henry (Jack) & Associates,Technology,Information Technology Services,7120,18.7,4.3,5.7,8.7,None Controversy Level,,23rd percentile,Low
+DOC,Healthpeak Properties Inc,Real Estate,REIT - Healthcare Facilities,193,,,,,,,,
+HCA,Hca Healthcare Inc,Healthcare,Medical Care Facilities,220000,28.8,3.9,7.2,17.7,Significant Controversy Level,3,64th percentile,Medium
+HAS,Hasbro Inc,Consumer Cyclical,Leisure,5502,7.1,0,4.2,2.9,Moderate Controversy Level,2,1st percentile,Negligible
+HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,49000,25.6,9.8,6.9,8.9,Moderate Controversy Level,2,52nd percentile,Medium
+GS,Goldman Sachs Group Inc,Financial Services,Capital Markets,44400,25.5,0.9,11.8,12.8,Moderate Controversy Level,2,51st percentile,Medium
+GL,Globe Life Inc,Financial Services,Insurance - Life,3636,20.4,1.6,10.5,8.3,Moderate Controversy Level,2,29th percentile,Medium
+GPN,Global Payments Inc,Industrials,Specialty Business Services,27000,20.9,3.7,6.5,10.7,Low Controversy Level,1,31st percentile,Medium
+GILD,Gilead Sciences Inc,Healthcare,Drug Manufacturers - General,18000,23,1,7.6,14.3,Moderate Controversy Level,2,40th percentile,Medium
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,60000,13.7,4.7,3.8,5.2,Moderate Controversy Level,2,8th percentile,Low
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,163000,28.5,9.8,7.2,11.5,High Controversy Level,4,63rd percentile,Medium
+GIS,General Mills Inc,Consumer Defensive,Packaged Foods,34000,21.1,8.3,4.1,8.7,Moderate Controversy Level,2,32nd percentile,Medium
+GE,General Electric Company,Industrials,Aerospace & Defense,125000,40.5,14.2,10.9,15.4,Significant Controversy Level,3,92nd percentile,Severe
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,111600,35.2,9.4,6.9,18.9,Significant Controversy Level,3,84th percentile,High
+GNRC,Generac Holdings Inc,Industrials,Specialty Industrial Machinery,8315,,,,,,,,
+GEN,Gen Digital Inc,Technology,Software - Infrastructure,3400,16.9,3.3,5.4,8.2,Moderate Controversy Level,2,17th percentile,Low
+GEV,Ge Vernova Inc,Utilities,Utilities - Renewable,80000,,,,,,,,
+GEHC,Ge Healthcare Technologies Inc,Healthcare,Health Information Services,51000,,,,,,,,
+IT,Gartner Inc,Technology,Information Technology Services,20290,18.9,0.1,5.6,13.2,Low Controversy Level,1,24th percentile,Low
+GRMN,Garmin Ltd,Technology,Scientific & Technical Instruments,19900,20.7,4.8,4.3,11.6,Low Controversy Level,1,30th percentile,Medium
+FCX,Freeport-Mcmoran Inc,Basic Materials,Copper,27200,31.6,15.3,6.4,10,High Controversy Level,4,74th percentile,High
+BEN,Franklin Resources Inc,Financial Services,Asset Management,10100,18.3,1.1,7.3,9.9,Moderate Controversy Level,2,22nd percentile,Low
+FOX,Fox Corporation Class B,Communication Services,Entertainment,10400,,,,,,,,
+FOXA,Fox Corporation Class A,Communication Services,Entertainment,10400,,,,,,,,
+FTV,Fortive Corporation,Technology,Scientific & Technical Instruments,18000,34.8,16.1,4.7,14,Low Controversy Level,1,83rd percentile,High
+FTNT,Fortinet Inc,Technology,Software - Infrastructure,13522,18.9,2.5,6.4,10,Low Controversy Level,1,24th percentile,Low
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,177000,22.4,7.4,8.5,6.4,Significant Controversy Level,3,37th percentile,Medium
+FMC,Fmc Corporation,Basic Materials,Agricultural Inputs,6200,30.7,14.4,7.5,8.9,Low Controversy Level,1,72nd percentile,High
+FI,Fiserv Inc,Technology,Information Technology Services,42000,19.6,4.1,6.8,8.7,Moderate Controversy Level,2,27th percentile,Low
+FE,Firstenergy Corp,Utilities,Utilities - Regulated Electric,12042,25.6,10.8,5.8,9,Significant Controversy Level,3,51st percentile,Medium
+FSLR,First Solar Inc,Technology,Solar,6700,,,,,,,,
+FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,18657,16.8,1.2,7.5,8.1,Moderate Controversy Level,2,17th percentile,Low
+FIS,Fidelity National Information Services Inc,Technology,Information Technology Services,60000,17.5,4.1,5.2,8.2,Low Controversy Level,1,19th percentile,Low
+FDX,Fedex Corporation,Industrials,Integrated Freight & Logistics,328000,19.7,5.7,5.6,8.4,Moderate Controversy Level,2,27th percentile,Low
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,297,12.4,2.3,5.8,4.3,Low Controversy Level,1,4th percentile,Low
+FAST,Fastenal Co,Industrials,Industrial Distribution,20935,24.7,9.3,7.1,8.3,Moderate Controversy Level,2,48th percentile,Medium
+FICO,Fair Isaac Corporation,Technology,Software - Application,3550,,,,,,,,
+FDS,Factset Research Systems,Financial Services,Financial Data & Stock Exchanges,12279,18.4,4.3,5.3,8.8,Low Controversy Level,1,22nd percentile,Low
+FFIV,F5 Inc,Technology,Software - Infrastructure,6077,17.1,4.1,5.4,7.6,Low Controversy Level,1,18th percentile,Low
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,62000,41.6,23.1,8.5,10,Significant Controversy Level,3,93rd percentile,Severe
+EXR,Extra Space Storage Inc,Real Estate,REIT - Industrial,7618,15.2,4.2,7.3,3.7,Low Controversy Level,1,12th percentile,Low
+EXPD,Expeditors International of Washington Inc,Industrials,Integrated Freight & Logistics,18403,16.6,4.2,4.8,7.6,Moderate Controversy Level,2,16th percentile,Low
+EXPE,Expedia Group Inc,Consumer Cyclical,Travel Services,17100,27.6,4.3,10.1,13.3,Moderate Controversy Level,2,60th percentile,Medium
+EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric,19962,22.9,7.4,6.4,9.1,Significant Controversy Level,3,39th percentile,Medium
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,10000,18.6,4.7,5.4,8.6,Moderate Controversy Level,2,23rd percentile,Low
+EVRG,Evergy Inc,Utilities,Utilities - Regulated Electric,4658,,,,,,,,
+EG,Everest Group Ltd,Financial Services,Insurance - Reinsurance,2844,18,1.4,9.9,6.7,Low Controversy Level,1,20th percentile,Low
+ETSY,Etsy Inc,Consumer Cyclical,Internet Retail,2420,,,,,,,,
+ESS,Essex Property Trust Inc,Real Estate,REIT - Residential,1747,12.4,3.5,6.1,2.8,Low Controversy Level,1,6th percentile,Low
+EQR,Equity Residential,Real Estate,REIT - Residential,2400,11.9,3,6.1,2.9,Low Controversy Level,1,5th percentile,Low
+EQIX,Equinix Inc Reit,Real Estate,REIT - Specialty,13354,13.9,3.4,5.1,5.3,Low Controversy Level,1,9th percentile,Low
+EFX,Equifax Incorporated,Industrials,Consulting Services,15000,23.2,0.1,6.8,16.3,Significant Controversy Level,3,41st percentile,Medium
+EQT,Eqt Corp,Energy,Oil & Gas E&P,881,35.7,17.7,7.9,10.1,Low Controversy Level,1,85th percentile,High
+EPAM,Epam Systems Inc,Technology,Information Technology Services,53150,,,,,,,,
+EOG,Eog Resources Inc,Energy,Oil & Gas E&P,3050,34.2,20.2,7.3,6.7,Low Controversy Level,1,81st percentile,High
+ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,12000,26.7,14,5.3,7.3,Moderate Controversy Level,2,56th percentile,Medium
+EMR,Emerson Electric Co,Industrials,Specialty Industrial Machinery,67000,28.4,8.8,6.6,13.1,Low Controversy Level,1,62nd percentile,Medium
+LLY,Eli Lilly & Co,Healthcare,Drug Manufacturers - General,43000,24.3,2.5,9.1,12.6,Moderate Controversy Level,2,46th percentile,Medium
+ELV,Elevance Health Inc,Healthcare,Healthcare Plans,104900,11.4,0.1,5.3,6,Moderate Controversy Level,2,4th percentile,Low
+EA,Electronic Arts Inc,Communication Services,Electronic Gaming & Multimedia,13700,13.3,0.1,4.7,8.4,Moderate Controversy Level,2,7th percentile,Low
+EW,Edwards Lifesciences Corp,Healthcare,Medical Devices,19800,18.6,2.9,7.6,8.1,Low Controversy Level,1,23rd percentile,Low
+EIX,Edison International,Utilities,Utilities - Regulated Electric,13003,27.5,11,5.1,11.4,Significant Controversy Level,3,59th percentile,Medium
+ECL,Ecolab Inc,Basic Materials,Specialty Chemicals,48000,19.9,8.5,5.3,6.1,Moderate Controversy Level,2,27th percentile,Low
+EBAY,Ebay Inc,Consumer Cyclical,Internet Retail,12300,17.6,2.7,7.2,7.7,Moderate Controversy Level,2,19th percentile,Low
+ETN,Eaton Corporation Plcs,Industrials,Specialty Industrial Machinery,94000,17.9,5.5,5.7,6.8,Low Controversy Level,1,20th percentile,Low
+DD,Dupont De Nemours Inc,Basic Materials,Specialty Chemicals,24000,28.6,14.7,5.9,8,Significant Controversy Level,3,63rd percentile,Medium
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,27037,27,11.5,4.8,10.7,Moderate Controversy Level,2,57th percentile,Medium
+DTE,Dte Energy Company,Utilities,Utilities - Regulated Electric,9608,29.8,15,4.7,10,Moderate Controversy Level,2,68th percentile,Medium
+DOW,Dow Inc,Basic Materials,Chemicals,35900,,,,,,,,
+DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,25000,25.9,8,5.4,12.5,Low Controversy Level,1,53rd percentile,Medium
+D,Dominion Energy Inc,Utilities,Utilities - Regulated Electric,17700,26.4,11.9,5.6,8.8,Moderate Controversy Level,2,55th percentile,Medium
+DLTR,Dollar Tree Inc,Consumer Defensive,Discount Stores,65894,20.1,3.3,4,12.8,Moderate Controversy Level,2,28th percentile,Medium
+DG,Dollar General Corp,Consumer Defensive,Discount Stores,185800,17.6,3.5,5.5,8.6,Moderate Controversy Level,2,19th percentile,Low
+DFS,Discover Financial Services,Financial Services,Credit Services,21100,22.5,0.1,10.5,11.9,Moderate Controversy Level,2,38th percentile,Medium
+DLR,Digital Realty Trust Inc,Real Estate,REIT - Specialty,3664,12.6,2.8,7,2.8,None Controversy Level,,6th percentile,Low
+FANG,Diamondback Energy Inc,Energy,Oil & Gas E&P,1023,,,,,,,,
+DXCM,Dexcom Inc,Healthcare,Medical Devices,9500,24,5.3,8.1,10.6,Low Controversy Level,1,45th percentile,Medium
+DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,1900,33.8,17.7,7.5,8.6,Moderate Controversy Level,2,80th percentile,High
+DAL,Delta Air Lines Inc,Industrials,Airlines,103000,30.3,9.9,5.8,14.6,Moderate Controversy Level,2,70th percentile,High
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,83000,20,2.7,6.5,10.8,Moderate Controversy Level,2,28th percentile,Low
+DECK,Deckers Outdoor Corp,Consumer Cyclical,Footwear & Accessories,4800,,,,,,,,
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,61000,11.9,1.4,5.3,5.2,Moderate Controversy Level,2,5th percentile,Low
+DHI,DR Horton Inc,Consumer Cyclical,Residential Construction,13450,21,8.7,5.7,6.7,Moderate Controversy Level,2,32nd percentile,Medium
+CVS,Cvs Health Corporation,Healthcare,Healthcare Plans,219000,22,0,6.2,15.8,Significant Controversy Level,3,36th percentile,Medium
+CMI,Cummins Inc,Industrials,Specialty Industrial Machinery,75500,19.3,5.6,5.9,7.7,Moderate Controversy Level,2,25th percentile,Low
+CSX,Csx Corporation,Industrials,Railroads,23400,21.9,7,4.8,10,Moderate Controversy Level,2,36th percentile,Medium
+CCI,Crown Castle Inc,Real Estate,REIT - Specialty,4700,10.1,4.1,4.3,1.7,None Controversy Level,,3rd percentile,Low
+CTRA,Coterra Energy Inc,Energy,Oil & Gas E&P,894,36.1,20.3,7.5,8.3,Moderate Controversy Level,2,86th percentile,High
+COST,Costco Wholesale Corp,Consumer Defensive,Discount Stores,316000,23.3,6.5,5.6,11.2,Significant Controversy Level,3,41st percentile,Medium
+CSGP,Costar Group Inc,Real Estate,Real Estate Services,6152,21.9,4.9,7.7,9.3,Low Controversy Level,1,36th percentile,Medium
+CTVA,Corteva Inc,Basic Materials,Agricultural Inputs,22500,,,,,,,,
+CPAY,Corpay Inc,Technology,Software - Infrastructure,10500,,,,,,,,
+GLW,Corning Incorporated,Technology,Electronic Components,49800,16.5,5.5,6.1,4.8,Moderate Controversy Level,2,16th percentile,Low
+CPRT,Copart Inc,Industrials,Specialty Business Services,12000,16,1.5,5.6,9,Low Controversy Level,1,14th percentile,Low
+CEG,Constellation Energy Corporation,Utilities,Utilities - Renewable,13871,,,,,,,,
+STZ,Constellation Brands Inc,Consumer Defensive,Beverages - Wineries & Distilleries,10600,24.7,9.4,5.2,10,Moderate Controversy Level,2,48th percentile,Medium
+ED,Consolidated Edison Inc,Utilities,Utilities - Regulated Electric,14592,23.8,6.9,6.1,10.9,Significant Controversy Level,3,44th percentile,Medium
+COP,Conocophillips,Energy,Oil & Gas E&P,10000,33.9,17.6,8.3,8.1,Moderate Controversy Level,2,81st percentile,High
+CAG,Conagra Brands Inc,Consumer Defensive,Packaged Foods,18600,30.8,10.7,4.7,15.4,Moderate Controversy Level,2,72nd percentile,High
+CMA,Comerica Incorporated,Financial Services,Banks - Regional,7619,25.2,2.5,11.7,11,Moderate Controversy Level,2,50th percentile,Medium
+CMCSA,Comcast Corp,Communication Services,Telecom Services,186000,23.1,4,8.2,10.9,Moderate Controversy Level,2,41st percentile,Medium
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,34000,26.2,8.3,6.5,11.3,Moderate Controversy Level,2,54th percentile,Medium
+CTSH,Cognizant Technology Solutions,Technology,Information Technology Services,344400,14.7,1.1,5.9,7.6,Moderate Controversy Level,2,10th percentile,Low
+KO,Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,79100,21.6,7.2,4.9,9.5,Significant Controversy Level,3,35th percentile,Medium
+CMS,Cms Energy Corporation,Utilities,Utilities - Regulated Electric,8356,21.7,9.6,5.2,6.8,Moderate Controversy Level,2,35th percentile,Medium
+CME,Cme Group Inc,Financial Services,Financial Data & Stock Exchanges,3565,17.8,2.1,9.2,6.5,Low Controversy Level,1,20th percentile,Low
+CLX,Clorox Company,Consumer Defensive,Household & Personal Products,8100,21.6,7.7,5.3,8.6,Moderate Controversy Level,2,35th percentile,Medium
+CFG,Citizens Financial Group Inc,Financial Services,Banks - Regional,17354,23.5,2,11.4,10.1,Moderate Controversy Level,2,42nd percentile,Medium
+C,Citigroup Inc,Financial Services,Banks - Diversified,237000,29.2,1.8,13.7,13.8,High Controversy Level,4,66th percentile,Medium
+CSCO,Cisco Systems Inc,Technology,Communication Equipment,84900,13.9,0.4,6.5,6.9,Moderate Controversy Level,2,8th percentile,Low
+CTAS,Cintas Corp,Industrials,Specialty Business Services,44500,18.1,3,5.9,9.2,Moderate Controversy Level,2,21st percentile,Low
+CINF,Cincinnati Financial Corp,Financial Services,Insurance - Property & Casualty,5426,25.6,1.8,12.9,11,Low Controversy Level,1,52nd percentile,Medium
+CHD,Church & Dwight Co Inc,Consumer Defensive,Household & Personal Products,5550,19.9,6.9,6.7,6.3,Low Controversy Level,1,27th percentile,Low
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,40000,23.6,1.5,10.6,11.5,Moderate Controversy Level,2,43rd percentile,Medium
+CMG,Chipotle Mexican Grill Inc,Consumer Cyclical,Restaurants,120000,20.7,6.8,4.3,9.6,Moderate Controversy Level,2,30th percentile,Medium
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,45600,36.6,17,10.4,9.2,Significant Controversy Level,3,87th percentile,High
+CHTR,Charter Comm Inc Del Cl a,Communication Services,Telecom Services,101100,24.7,6.1,7.9,10.7,Moderate Controversy Level,2,48th percentile,Medium
+CRL,Charles River Laboratories International Inc,Healthcare,Diagnostics & Research,20400,,,,,,,,
+CF,Cf Industries Holding Inc,Basic Materials,Agricultural Inputs,2700,29.3,16.2,5.4,7.7,Low Controversy Level,1,66th percentile,Medium
+CNP,Centerpoint Energy Inc,Utilities,Utilities - Regulated Electric,8827,28.7,12.9,5.1,10.7,Moderate Controversy Level,2,64th percentile,Medium
+CNC,Centene Corporation,Healthcare,Healthcare Plans,59900,19.9,0.1,6.5,13.3,Moderate Controversy Level,2,28th percentile,Low
+COR,Cencora Inc,Healthcare,Medical Distribution,46000,12.8,1.6,5.7,5.5,Significant Controversy Level,3,6th percentile,Low
+CE,Celanese Corporation,Basic Materials,Chemicals,12400,26.1,14.7,5.6,5.9,Moderate Controversy Level,2,54th percentile,Medium
+CDW,Cdw Corporation,Technology,Information Technology Services,11400,9.2,2.5,3.5,3.2,None Controversy Level,,2nd percentile,Negligible
+CBRE,Cbre Group Inc,Real Estate,Real Estate Services,130000,8,1.5,4.6,1.9,Low Controversy Level,1,2nd percentile,Negligible
+CBOE,Cboe Global Markets Inc,Financial Services,Financial Data & Stock Exchanges,1647,21,2.7,10.6,7.6,Low Controversy Level,1,32nd percentile,Medium
+CAT,Caterpillar Inc,Industrials,Farm & Heavy Construction Machinery,113200,36.2,10.4,8.1,17.7,High Controversy Level,4,86th percentile,High
+CTLT,Catalent Inc,Healthcare,Drug Manufacturers - Specialty & Generic,18000,,,,,,,,
+CARR,Carrier Global Corporation,Industrials,Building Products & Equipment,53000,,,,,,,,
+CCL,Carnival Corporation,Consumer Cyclical,Travel Services,106000,24.5,9.4,5,10.1,Significant Controversy Level,3,47th percentile,Medium
+KMX,Carmax Inc,Consumer Cyclical,Auto & Truck Dealerships,29836,12.1,0.1,4,8,Moderate Controversy Level,2,5th percentile,Low
+CAH,Cardinal Health Inc,Healthcare,Medical Distribution,47040,14.9,1.2,6.4,7.3,Significant Controversy Level,3,11th percentile,Low
+COF,Capital One Financial,Financial Services,Credit Services,51300,22.5,0.1,10.1,12.3,Significant Controversy Level,3,38th percentile,Medium
+CPB,Campbell Soup Company,Consumer Defensive,Packaged Foods,14500,23.5,10.9,4.5,8.1,Moderate Controversy Level,2,42nd percentile,Medium
+CPT,Camden Property Trust,Real Estate,REIT - Residential,1640,16.1,4,8.2,3.9,Low Controversy Level,1,14th percentile,Low
+CZR,Caesars Entertainment Inc,Consumer Cyclical,Resorts & Casinos,51000,,,,,,,,
+CDNS,Cadence Design Systems,Technology,Software - Application,11200,12,2.3,4.8,4.9,None Controversy Level,,5th percentile,Low
+CHRW,CH Robinson Worldwide Inc,Industrials,Integrated Freight & Logistics,14990,19.3,4.7,5.3,9.3,Low Controversy Level,1,26th percentile,Low
+BG,Bunge Global Sa,Consumer Defensive,Farm Products,23000,32.9,14.4,5.3,13.3,Significant Controversy Level,3,78th percentile,High
+BLDR,Builders Firstsource Inc,Industrials,Building Products & Equipment,29000,,,,,,,,
+BFB,Brown-Forman Corporation Class B,,,,,,,,,,,
+BRO,Brown & Brown Inc,Financial Services,Insurance Brokers,16152,20.5,0.1,10.6,9.8,Low Controversy Level,1,30th percentile,Medium
+BR,Broadridge Financial Solutions Inc,Technology,Information Technology Services,14000,16.6,4.2,4.9,7.5,Moderate Controversy Level,2,16th percentile,Low
+AVGO,Broadcom Inc,Technology,Semiconductors,20000,20,7.3,6.6,6,Significant Controversy Level,3,28th percentile,Low
+BMY,Bristol-Myers Squibb Co,Healthcare,Drug Manufacturers - General,34100,22.7,1.3,7.1,14.4,Moderate Controversy Level,2,39th percentile,Medium
+BSX,Boston Scientific Corp,Healthcare,Medical Devices,48000,23.1,2.4,8.9,11.9,Moderate Controversy Level,2,41st percentile,Medium
+BXP,Boston Properties Inc,Real Estate,REIT - Office,836,12.5,2.5,5.4,4.5,Low Controversy Level,1,6th percentile,Low
+BWA,Borgwarner Inc,Consumer Cyclical,Auto Parts,39900,12.6,2.7,5.7,4.2,Moderate Controversy Level,2,6th percentile,Low
+BKNG,Booking Holdings Inc,Consumer Cyclical,Travel Services,24000,19.2,1,8.1,10.1,Significant Controversy Level,3,25th percentile,Low
+BA,Boeing Company,Industrials,Aerospace & Defense,171000,39.6,8.8,8.3,22.5,High Controversy Level,4,91st percentile,High
+BX,Blackstone Inc,Financial Services,Asset Management,4735,23.4,2.5,11.3,9.6,Moderate Controversy Level,2,42nd percentile,Medium
+BLK,Blackrock Inc,Financial Services,Asset Management,19300,18.3,0.9,10,7.4,Moderate Controversy Level,2,21st percentile,Low
+BIIB,Biogen Inc,Healthcare,Drug Manufacturers - General,7570,22.2,0.4,7.4,14.5,Significant Controversy Level,3,37th percentile,Medium
+TECH,Bio-Techne Corp,Healthcare,Biotechnology,3200,,,,,,,,
+BIO,Bio-Rad Laboratories IncClass A,Healthcare,Medical Devices,8000,17.4,1.2,7,9.2,Low Controversy Level,1,18th percentile,Low
+BBY,Best Buy Company Inc,Consumer Cyclical,Specialty Retail,85000,15.9,2.4,4.4,9.1,Moderate Controversy Level,2,14th percentile,Low
+BRK-B,Berkshire Hathaway Class B,Financial Services,Insurance - Diversified,396500,20.7,1,14.8,4.9,Low Controversy Level,1,30th percentile,Medium
+BDX,Becton Dickinson and Co,Healthcare,Medical Instruments & Supplies,70000,23.8,3,7.1,13.6,Significant Controversy Level,3,44th percentile,Medium
+BAX,Baxter International Inc,Healthcare,Medical Instruments & Supplies,60000,23.6,2.8,7.1,13.6,Significant Controversy Level,3,43rd percentile,Medium
+BBWI,Bath & Body Works Inc,Consumer Cyclical,Specialty Retail,8981,28.3,12.2,5.9,10.3,Moderate Controversy Level,2,62nd percentile,Medium
+BK,Bank of New York Mellon Corporation,Financial Services,Asset Management,52100,20.9,1.1,9.9,9.9,Moderate Controversy Level,2,31st percentile,Medium
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,212000,28.3,1.7,11.5,15.1,Significant Controversy Level,3,62nd percentile,Medium
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,16000,12.1,7.6,3.7,0.8,Moderate Controversy Level,2,5th percentile,Low
+BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,57000,,,,,,,,
+AXON,Axon Enterprise Inc,Industrials,Aerospace & Defense,3330,,,,,,,,
+AVY,Avery Dennison Corp,Consumer Cyclical,Packaging & Containers,35000,16.1,11.4,3.7,0.9,Low Controversy Level,1,14th percentile,Low
+AVB,Avalonbay Communities Inc,Real Estate,REIT - Residential,2978,9.8,3,4.8,2,Low Controversy Level,1,3rd percentile,Negligible
+AZO,Autozone Inc,Consumer Cyclical,Specialty Retail,71400,11,0.1,3.8,7.1,Moderate Controversy Level,2,4th percentile,Low
+ADP,Automatic Data Processing,Industrials,Staffing & Employment Services,63000,13.8,2.8,5.5,5.5,Low Controversy Level,1,8th percentile,Low
+ADSK,Autodesk Inc,Technology,Software - Application,,16.8,3.7,4.9,8.2,None Controversy Level,,16th percentile,Low
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,5019,34.6,14.8,6.4,13.4,Moderate Controversy Level,2,83rd percentile,High
+T,At&t Inc,Communication Services,Telecom Services,148290,23.9,3.3,6.7,13.9,Significant Controversy Level,3,44th percentile,Medium
+AIZ,Assurant Inc,Financial Services,Insurance - Specialty,13600,24.1,1.6,11.7,10.8,Moderate Controversy Level,2,45th percentile,Medium
+AJG,Arthur J Gallagher & Co,Financial Services,Insurance Brokers,49821,21.2,0.1,10.1,10.9,Moderate Controversy Level,2,33rd percentile,Medium
+ANET,Arista Networks,Technology,Computer Hardware,4023,16.7,0.4,7.4,8.9,Low Controversy Level,1,16th percentile,Low
+ADM,Archer Daniels Midland Company,Consumer Defensive,Farm Products,40213,31.8,16.6,5,10.1,Significant Controversy Level,3,75th percentile,High
+ACGL,Arch Capital Group Ltd,Financial Services,Insurance - Diversified,6400,22.5,1.5,10.9,10.1,Moderate Controversy Level,2,38th percentile,Medium
+APTV,Aptiv Plc,Consumer Cyclical,Auto Parts,154000,10.7,1.5,5.3,3.9,Low Controversy Level,1,3rd percentile,Low
+AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials,34800,12.7,4.5,5.3,3,Low Controversy Level,1,6th percentile,Low
+AAPL,Apple Inc,Technology,Consumer Electronics,150000,17.2,0.5,9.4,7.4,Significant Controversy Level,3,18th percentile,Low
+APA,Apa Corporation,Energy,Oil & Gas E&P,2271,38.8,22,8,8.9,Moderate Controversy Level,2,83rd percentile,High
+AON,Aon Plc Class A,Financial Services,Insurance Brokers,50000,,,,,,,,
+ANSS,Ansys Inc,Technology,Software - Application,6200,15.9,3.5,5.1,7.3,None Controversy Level,,14th percentile,Low
+ADI,Analog Devices Inc,Technology,Semiconductors,26000,22.9,9.3,7,6.7,Low Controversy Level,1,40th percentile,Medium
+APH,Amphenol Corporation,Technology,Electronic Components,95000,19.6,7.3,7.6,4.6,Moderate Controversy Level,2,26th percentile,Low
+AMGN,Amgen Inc,Healthcare,Drug Manufacturers - General,26700,22,0.7,7.8,13.5,Significant Controversy Level,3,36th percentile,Medium
+AME,Ametek Inc,Industrials,Specialty Industrial Machinery,21500,23.9,8.6,6.7,8.5,Low Controversy Level,1,44th percentile,Medium
+AMP,Ameriprise Financial Inc,Financial Services,Asset Management,13800,20.3,2.1,10.3,7.8,Moderate Controversy Level,2,29th percentile,Medium
+AWK,American Water Works Company Inc,Utilities,Utilities - Regulated Water,6500,21.6,9,5,7.6,Low Controversy Level,1,34th percentile,Medium
+AMT,American Tower Corporation,Real Estate,REIT - Specialty,5643,10.9,2.9,5.2,2.8,Low Controversy Level,1,4th percentile,Low
+AIG,American International Group Inc,Financial Services,Insurance - Diversified,25000,24.2,1.6,12.9,9.7,Moderate Controversy Level,2,46th percentile,Medium
+AXP,American Express Company,Financial Services,Credit Services,74600,18.6,0.1,9.7,8.9,Moderate Controversy Level,2,23rd percentile,Low
+AEP,American Electric Power Company Inc,Utilities,Utilities - Regulated Electric,16800,26.1,12.7,5.4,8.1,Moderate Controversy Level,2,54th percentile,Medium
+AAL,American Airlines Group Inc,Industrials,Airlines,132800,26.4,9.9,4.8,11.6,Moderate Controversy Level,2,54th percentile,Medium
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,9372,27.2,12.9,5.3,9.1,Moderate Controversy Level,2,58th percentile,Medium
+AMCR,Amcor Plcs,Consumer Cyclical,Packaging & Containers,41000,,,,,,,,
+AMZN,Amazoncom Inc,Consumer Cyclical,Internet Retail,1525000,30.6,6,9.2,15.4,Significant Controversy Level,3,71st percentile,High
+MO,Altria Group Inc,Consumer Defensive,Tobacco,6400,31.3,6.1,7.6,17.6,Significant Controversy Level,3,74th percentile,High
+GOOG,Alphabet Inc Class C,Communication Services,Internet Content & Information,180895,,,,,,,,
+GOOGL,Alphabet Inc Class A,Communication Services,Internet Content & Information,180895,24.2,1.6,11.5,11.2,High Controversy Level,4,46th percentile,Medium
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,3281,21.4,8.5,6.3,6.6,None Controversy Level,,33rd percentile,Medium
+ALLE,Allegion Public Limited Company,Industrials,Security & Protection Services,12200,21.8,10.9,5,5.8,None Controversy Level,,35th percentile,Medium
+ALGN,Align Technology Inc,Healthcare,Medical Devices,21670,,,,,,,,
+ARE,Alexandria Real Estate Equities Inc,Real Estate,REIT - Office,568,13.9,3.9,6.3,3.7,None Controversy Level,,9th percentile,Low
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,9000,26.6,15.4,6.3,4.8,Moderate Controversy Level,2,55th percentile,Medium
+AKAM,Akamai Technologies Inc,Technology,Software - Infrastructure,10250,17,3,6.9,7.1,Low Controversy Level,1,17th percentile,Low
+ABNB,Airbnb Inc Class A,Consumer Cyclical,Travel Services,6907,,,,,,,,
+APD,Air Products & Chemicals Inc,Basic Materials,Specialty Chemicals,23000,12.3,7.4,3.3,1.5,Low Controversy Level,1,5th percentile,Low
+A,Agilent Technologies Inc,Healthcare,Diagnostics & Research,18000,13.6,1.1,6.1,6.4,Moderate Controversy Level,2,8th percentile,Low
+AFL,Aflac Inc,Financial Services,Insurance - Life,12785,18.3,0.3,8.9,9.1,Low Controversy Level,1,22nd percentile,Low
+AES,Aes Corporation,Utilities,Utilities - Diversified,9600,26.7,13.3,5.3,8.2,Moderate Controversy Level,2,56th percentile,Medium
+AMD,Advanced Micro Devices,Technology,Semiconductors,26000,,,,,,,,
+ADBE,Adobe Inc,Technology,Software - Infrastructure,29945,13.1,1.9,5.2,6,Moderate Controversy Level,2,7th percentile,Low
+ACN,Accenture Plc,Technology,Information Technology Services,742000,9.8,0.8,4.4,4.6,Moderate Controversy Level,2,3rd percentile,Negligible
+ABBV,Abbvie Inc,Healthcare,Drug Manufacturers - General,50000,29.9,2.4,10.4,17.2,Significant Controversy Level,3,69th percentile,Medium
+ABT,Abbott Laboratories,Healthcare,Medical Devices,114000,24.8,2.3,8.3,14.2,Significant Controversy Level,3,48th percentile,Medium
+AOS,AO Smith Corporation,Industrials,Specialty Industrial Machinery,12000,25.4,7.2,6.4,11.9,Low Controversy Level,1,51st percentile,Medium
+MMM,3m Company,Industrials,Conglomerates,85000,37.3,17.2,6.5,13.6,Severe Controversy Level,5,89th percentile,High
