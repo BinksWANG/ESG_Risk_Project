@@ -7,55 +7,52 @@ Problem Statement:
 Challenge: Companies and investors face significant challenges in assessing and managing ESG (Environmental, Social, and Governance) risks due to the lack of centralized, up-to-date, and actionable insights. Traditional methods of analyzing ESG data are often manual, time-consuming, and rely on static datasets, leading to inefficiencies.
 
 Proposed Solution:
-To address these challenges, we propose building an end-to-end data pipeline that processes, analyzes, and visualizes ESG risk data for the top 500 companies. The solution will include:
+To address these challenges, we propose building an end-to-end data pipeline that processes, analyzes, and visualizes ESG risk data for the top 500 companies. The solution will include
 
-    • Centralized Data Ingestion:
+1. Centralized Data Ingestion:
 
-        • Collect ESG risk data from reliable sources (CSV files) and store it in a Google Cloud Storage.
+	1.1 Collect ESG risk data from reliable sources (CSV files) and store it in a Google Cloud Storage.
 
-        • Use batch processing to ingest and update data periodically (yearly).
+	1.2 Use batch processing to ingest and update data periodically (yearly).
 
-    • Data Processing and Transformation:
 
-        • Clean and preprocess the raw data to handle missing values, duplicates, and inconsistencies.
+2. Data Processing and Transformation:
 
-        • Transform the data to derive additional metrics, such as average ESG risk scores by sector or industry.
+	2.1 Clean and preprocess the raw data to handle missing values, duplicates, and inconsistencies.
 
-        • Use batch processing tools like Apache Spark or AWS Glue for efficient data transformation.
+	2.2 Transform the data to derive additional metrics, such as average ESG risk scores by sector or industry.
 
-    • Data Warehouse and Analytics Engineering:
+	2.3 Use batch processing tools like Apache Spark or AWS Glue for efficient data transformation.
 
-        • Load the processed data into a cloud-based data warehouse (BigQuery).
+3. Data Warehouse and Analytics Engineering:
 
-        • Use dbt (Data Build Tool) to implement dimensional modeling and create analytics-ready datasets, including fact and dimension tables.
+	3.1 Load the processed data into a cloud-based data warehouse (BigQuery).
 
-    • Real-Time Monitoring (Optional):
+	3.2 Use dbt (Data Build Tool) to implement dimensional modeling and create analytics-ready datasets, including fact and dimension tables.
 
-        • If real-time updates are required, integrate a streaming pipeline using tools like Kafka or Google Pub/Sub to handle incoming ESG data streams.
-        
-        • Use stream processing tools like Apache Flink or Spark Streaming to analyze real-time data.
+4. Real-Time Monitoring (Optional):
+
+	4.1 If real-time updates are required, integrate a streaming pipeline using tools like Kafka or Google Pub/Sub to handle incoming ESG data streams.
+
+	4.2 Use stream processing tools like Apache Flink or Spark Streaming to analyze real-time data.
     
-    • Dashboard Development:
+5. Dashboard Development:
         
-        • visualizations:
-            
-            • A bar chart or pie chart showing the distribution of ESG Risk Levels (categorical data).
-            
-            • A line chart showing trends in Total ESG Risk Scores over time (temporal data).
-        
-        • Add filters and drill-down options to allow users to explore data by sector, industry, or company.
+	5.1 Data visualizations
+                
+	5.2 Add filters and drill-down options to allow users to explore data by sector, industry, or company.
+
 
 Technology Stack
     
     • Google Cloud Platform (GCP)
-	    
+	 
         • Compute Engine: Hosting VM instance.
 	    
         • Google Cloud Storage (Datalake): Where data lands.
 	    
         • BigQuery (Datawarehouse): Where data is stored in dimensional modeling.
 	    
-        • Spark (Data Processing Layer): Local cluster on VM instance.
 
     • kestra
        
@@ -81,5 +78,7 @@ load data:
     jupyter notebook: load data batches (5 batches) to pgadmin sp_500_esg_risk_rating table\
     google cloud service: using kestra load data to bucket
 
-Project Architacture Overview (image)
+Project Architacture Overview
+
+![looker_1](https://github.com/user-attachments/assets/8a8859f7-f15c-4f6f-8f8d-4c8dcba6663e)
 
