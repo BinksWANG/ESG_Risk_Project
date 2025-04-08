@@ -10,42 +10,67 @@ Proposed Solution:
 To address these challenges, we propose building an end-to-end data pipeline that processes, analyzes, and visualizes ESG risk data for the top 500 companies. The solution will include:
 
     • Centralized Data Ingestion:
-        • Collect ESG risk data from reliable sources (CSV files) and store it in a centralized data lake (Google Cloud Storage).
+
+        • Collect ESG risk data from reliable sources (CSV files) and store it in a Google Cloud Storage.
+
         • Use batch processing to ingest and update data periodically (yearly).
+
     • Data Processing and Transformation:
+
         • Clean and preprocess the raw data to handle missing values, duplicates, and inconsistencies.
+
         • Transform the data to derive additional metrics, such as average ESG risk scores by sector or industry.
+
         • Use batch processing tools like Apache Spark or AWS Glue for efficient data transformation.
+
     • Data Warehouse and Analytics Engineering:
+
         • Load the processed data into a cloud-based data warehouse (BigQuery).
+
         • Use dbt (Data Build Tool) to implement dimensional modeling and create analytics-ready datasets, including fact and dimension tables.
+
     • Real-Time Monitoring (Optional):
+
         • If real-time updates are required, integrate a streaming pipeline using tools like Kafka or Google Pub/Sub to handle incoming ESG data streams.
+        
         • Use stream processing tools like Apache Flink or Spark Streaming to analyze real-time data.
+    
     • Dashboard Development:
-        • Include visualizations such as:
+        
+        • visualizations:
+            
             • A bar chart or pie chart showing the distribution of ESG Risk Levels (categorical data).
+            
             • A line chart showing trends in Total ESG Risk Scores over time (temporal data).
+        
         • Add filters and drill-down options to allow users to explore data by sector, industry, or company.
 
-Key Aspects
-✅ Which sectors have the highest ESG risks?
-✅ How environmental and governance risks influence overall ESG scores?
-✅ Can we predict ESG scores for companies without existing data?
-
 Technology Stack
+    
     • Google Cloud Platform (GCP)
-	    • Compute Engine: Hosting VM instance.
-	    • Google Cloud Storage (Datalake): Where data lands.
-	    • BigQuery (Datawarehouse): Where data is stored in dimensional modeling.
-	    • Spark (Data Processing Layer): Local cluster on VM instance.
-    • Mage
-        • Orchestration Tool: Used for our data pipeline flow.  (kestra)
+	    
+        • Compute Engine: Hosting VM instance.
+	    
+        • Google Cloud Storage (Datalake): Where data lands.
+	    
+        • BigQuery (Datawarehouse): Where data is stored in dimensional modeling.
+	    
+        • Spark (Data Processing Layer): Local cluster on VM instance.
+
+    • kestra
+       
+        •  Used for our data pipeline flow.  
+
     • DBT (Data Build Tool)
+        
         • Reporting Layer: Built in models.
+
     • Docker
+       
         • Containerization: Wrapping Mage and Spark in containers.
+
     • Terraform (Infrastructure as Code)
+        
         • Deployment: Used to deploy all the needed resources on GCP.
 
 data pipeline: batch  
@@ -58,6 +83,3 @@ load data:
 
 Project Architacture Overview (image)
 
-Data Flow
-
-EJ15PMUELYPLQ4TP4Z14K744  dbtcode
